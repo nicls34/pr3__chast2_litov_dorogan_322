@@ -1,0 +1,15 @@
+C:\Users\Юлиана\source\repos\pr3__chast2_litov_dorogan_322\pr3__chast2_litov_dorogan_322\obj\Debug\pr3__chast2_litov_dorogan_322.csproj.AssemblyReference.cache
+C:\Users\Юлиана\source\repos\pr3__chast2_litov_dorogan_322\pr3__chast2_litov_dorogan_322\obj\Debug\MainWindow.g.cs
+C:\Users\Юлиана\source\repos\pr3__chast2_litov_dorogan_322\pr3__chast2_litov_dorogan_322\obj\Debug\App.g.cs
+C:\Users\Юлиана\source\repos\pr3__chast2_litov_dorogan_322\pr3__chast2_litov_dorogan_322\obj\Debug\pr3__chast2_litov_dorogan_322_MarkupCompile.cache
+C:\Users\Юлиана\source\repos\pr3__chast2_litov_dorogan_322\pr3__chast2_litov_dorogan_322\obj\Debug\pr3__chast2_litov_dorogan_322_MarkupCompile.lref
+C:\Users\Юлиана\source\repos\pr3__chast2_litov_dorogan_322\pr3__chast2_litov_dorogan_322\bin\Debug\pr3__chast2_litov_dorogan_322.exe.config
+C:\Users\Юлиана\source\repos\pr3__chast2_litov_dorogan_322\pr3__chast2_litov_dorogan_322\bin\Debug\pr3__chast2_litov_dorogan_322.exe
+C:\Users\Юлиана\source\repos\pr3__chast2_litov_dorogan_322\pr3__chast2_litov_dorogan_322\bin\Debug\pr3__chast2_litov_dorogan_322.pdb
+C:\Users\Юлиана\source\repos\pr3__chast2_litov_dorogan_322\pr3__chast2_litov_dorogan_322\obj\Debug\MainWindow.baml
+C:\Users\Юлиана\source\repos\pr3__chast2_litov_dorogan_322\pr3__chast2_litov_dorogan_322\obj\Debug\pr3__chast2_litov_dorogan_322.g.resources
+C:\Users\Юлиана\source\repos\pr3__chast2_litov_dorogan_322\pr3__chast2_litov_dorogan_322\obj\Debug\pr3__chast2_litov_dorogan_322.Properties.Resources.resources
+C:\Users\Юлиана\source\repos\pr3__chast2_litov_dorogan_322\pr3__chast2_litov_dorogan_322\obj\Debug\pr3__chast2_litov_dorogan_322.csproj.GenerateResource.cache
+C:\Users\Юлиана\source\repos\pr3__chast2_litov_dorogan_322\pr3__chast2_litov_dorogan_322\obj\Debug\pr3__chast2_litov_dorogan_322.csproj.CoreCompileInputs.cache
+C:\Users\Юлиана\source\repos\pr3__chast2_litov_dorogan_322\pr3__chast2_litov_dorogan_322\obj\Debug\pr3__chast2_litov_dorogan_322.exe
+C:\Users\Юлиана\source\repos\pr3__chast2_litov_dorogan_322\pr3__chast2_litov_dorogan_322\obj\Debug\pr3__chast2_litov_dorogan_322.pdb
